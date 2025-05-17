@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367710669477",
+    "project_id": "dndhack-6627a",
+    "storage_bucket": "dndhack-6627a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367710669477:android:a7b074374b22bcda809b4c",
+        "android_client_info": {
+          "package_name": "com.example.dndhack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Anm_NUOEFOIaeOQ7AUgjz935cowlam8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
